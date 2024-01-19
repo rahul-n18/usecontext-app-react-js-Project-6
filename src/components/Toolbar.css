@@ -1,0 +1,8 @@
+.toolbar {
+  margin-top: 20px;
+}
+
+.toolbar button {
+  padding: 10px;
+  cursor: pointer;
+}

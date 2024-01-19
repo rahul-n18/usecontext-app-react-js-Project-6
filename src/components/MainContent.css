@@ -1,0 +1,17 @@
+.content {
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.light-theme {
+  background-color: white;
+}
+
+.dark-theme {
+  background-color: black;
+}
+
+h1 {
+  color: var(--text-color, black);
+}
